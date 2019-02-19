@@ -1,0 +1,9 @@
+{
+  "name": "get-random-values",
+  "version": "0.0.0",
+  "description": "Cross browser and node.js implementation to generate random values",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ProtonMail",
+  "license": "MIT"
+}
